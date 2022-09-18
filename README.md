@@ -1,5 +1,8 @@
 # React kanban board application
 
+## Preview
+![preview](img.png)
+
 ## Features
 - Draggable cards
 - ToDo, In Progress and Finished columns
